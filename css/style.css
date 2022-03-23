@@ -388,6 +388,10 @@ footer {
     color: #4353ff;
 }
 
+.header-button button {
+    cursor: pointer;
+}
+
 .menu-toggle {
     display: none;
 }
@@ -447,4 +451,12 @@ footer {
 .menu-toggle-two:checked+.toggle-two {
     display: inline-block;
     background-color: #fff;
+}
+
+.f-redes i {
+    cursor: pointer;
+}
+
+.f-redes i:hover {
+    color: #4353ff;
 }
